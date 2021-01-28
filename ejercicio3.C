@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int main(void) {
   int value = 18;
   int *ptr1, *ptr2;

@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int main(void) {
   int *ptr_int;
   char *ptr_char;

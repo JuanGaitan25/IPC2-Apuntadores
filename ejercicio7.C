@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int *ptr_int, var;
 
 void int_ptr() {

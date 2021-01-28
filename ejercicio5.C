@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int main(void) {
   struct articulo {
     char nombre[20];
